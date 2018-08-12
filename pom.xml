@@ -20,7 +20,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <consul.discovery.version>2.0.1.RELEASE</consul.discovery.version>
+        <!--<consul.discovery.version>2.0.1.RELEASE</consul.discovery.version>-->
     </properties>
 
     <modules>
